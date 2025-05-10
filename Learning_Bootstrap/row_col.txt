@@ -1,0 +1,17 @@
+Grid: intersection of Rows and Column 
+
+class = row
+class = col 
+
+Total number of columns in bootstrap = 12
+
+There are two element in the current web page.
+
+since there are elements, each elements will occupy = 6 columns widths
+
+
+No of elements = 3
+
+no of columns per elements = 12/3 = 4 col widths
+
+no of columns per elements = 12/4 = 3 col widths
